@@ -7,8 +7,7 @@ fajl.close()"""
 # readlines -> lista od redovi
 
 
-# w - write -> brise sto imalo vo fajlot i zapisuva novi podatoci
-# a - append -> dodava tekst vo vekepostoecki fajl
+
 
 """fajl = open("lorem.txt", mode="w")
 fajl.write("Nov Tekst - Stariot e izbrisan")

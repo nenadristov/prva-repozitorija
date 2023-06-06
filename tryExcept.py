@@ -12,5 +12,8 @@ except SyntaxError:
 except IndexError:
     print("Element so toj index ne postoi")
 
+# w - write -> brise sto imalo vo fajlot i zapisuva novi podatoci
+# a - append -> dodava tekst vo vekepostoecki fajl
+
     
 
